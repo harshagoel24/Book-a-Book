@@ -1,0 +1,175 @@
+		tr,td{
+		margin:0px;
+		padding:0;
+		}
+		
+		#main_cart{
+			width:95%;
+			height:30px;
+			margin:0 auto;
+		}
+		
+		.cartpage-tabs{
+		padding: 0px 5px;
+		color: #DDD;
+		}
+		
+		#cartpage-cart-tab{
+		width:70px;
+		border-radius: 3px 3px 0px 0px;
+		color: #FFF;
+		background: #666 none repeat scroll 0% 0%;
+		text-transform: none;
+		font-size: 18px;
+		border: 0px none;
+		padding: 8px 20px;
+		font-weight: normal;
+		margin-top:20px;
+		 z-index: 1;
+		}
+		#cartpage-cart-tab-content{
+		border-top: 2px solid #666;
+		padding: 0px;
+		color: #565656;
+		}
+		.cart-table{
+		width: 100%;
+		border: 0px none;
+		}
+	.cart-head{
+	background: #F2F2F2 none repeat scroll 0% 0%;
+	border-top: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+	text-transform: uppercase;
+	border-left:1px solid #B9B9B9;
+	border-right:1px solid #B9B9B9;
+	}	
+	
+	.cart-body{
+     border:1px solid #B9B9B9;
+	 border-top:0px;
+	}
+	.head-cell{
+	padding: 10px 0px 0px 10px;
+	}
+	
+	.product-info{
+	width: 46%;
+	height:20px;
+	}
+	.image-cell{
+	width: 20%;
+	}
+	.item-cell {
+    width: 80%;
+	}
+	.lpadding10 {
+    padding-left: 10px;
+	}
+	.lborder {
+    border-left: 1px solid #B9B9B9;
+	}
+	.qty-cell {
+    width: 5%;
+	}
+	.price-cell {
+    width: 17%;
+	}
+	
+	
+	
+	.cell {
+    padding: 15px 10px 10px;
+    background: transparent none repeat scroll 0% 0%;
+	}
+	
+	.image-cell {
+    width: 20%;
+	}
+	
+	.fk-text-center {
+    text-align: center;
+	}
+	
+	.fk-position-relative, .rposition, .position-relative {
+    position: relative;
+	}
+	
+	.img-link {
+    
+	}
+	
+	a {
+    color: #666;
+    text-decoration: none;
+    cursor: pointer;
+	}
+	
+	.img-link img {
+    max-height: 70px;
+    max-width: 70px;
+	}
+	
+	.product-image {
+       height: auto !important;
+	}
+	
+	.fk-font-14 {
+    font-size: 14px;
+	}
+	
+	.fk-font-11 {
+    font-size: 11px;
+	}
+	
+	.font-color-medium {
+    color: #848484;
+	}
+	
+	.fk-font-12 {
+    font-size: 12px;
+}
+
+.line, .lastUnit {
+    overflow: hidden;
+}
+
+.tmargin5 {
+    margin-top: 5px;
+}
+
+.fk-bold {
+    font-weight: bold;
+}
+
+.product-action {
+    padding: 0px 10px 5px;
+}
+
+.unitExt {
+    float: right;
+}
+.tmargin2 {
+    margin-top: 2px;
+}
+ 
+ table{
+ border-collapse: collapse;
+ border-spacing:0px;
+ }
+ 
+ .delivery-cell {
+    width: 17%;
+}
+
+.subtotal-cell {
+    border-right: 0px none;
+}
+
+.cart-remove-item{
+float:right;
+}
+
+.price {
+    color: #333;
+}
